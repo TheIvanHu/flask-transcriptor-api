@@ -5,10 +5,8 @@ from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize, sent_tokenize
 import bs4 as BeautifulSoup
 import urllib.request  
-import torch
-from transformers import PegasusForConditionalGeneration, PegasusTokenizer
-import pegasus
 import re
+
 def summarize(subtitles):
 
     text = []
@@ -37,7 +35,6 @@ def summarize(subtitles):
     text= p.punctuate(text)
 
     #print(transcript)
-    import torch
     from transformers import PegasusForConditionalGeneration, PegasusTokenizer
     model_name = 'google/pegasus-large'
 
@@ -49,8 +46,5 @@ def summarize(subtitles):
     translated = model.generate(**batch)
     summary_results = tokenizer.batch_decode(translated, skip_special_tokens=True)
 
-
-    #summary_results = pegasus.get_response(text, 1, 10)
-    #summary_results = floydhubsummarize._run_article_summary(text)
     return(summary_results)
 
