@@ -1,5 +1,5 @@
 ## Our Vision
-![Logo Image](img/Productify.png "Speeding up your learning process")
+![Logo Image](http://Productify.png "Speeding up your learning process")
 
 Speeding up your learning process. **#SkyrocketYourProductivity** 			
 
