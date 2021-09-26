@@ -1,7 +1,7 @@
 ## Our Vision
-![Logo Image](./img/Productify.png "Speeding up your learning process")
+![Logo Image](img/Productify.png "Speeding up your learning process")
 
-Speeding up your learning process. **#SkyrocketYourProductivity**
+Speeding up your learning process. **#SkyrocketYourProductivity** 			
 
 Our aim is to streamline learning and providing a distraction-free environment so that you can advance in your career.
 
