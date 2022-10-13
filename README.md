@@ -1,7 +1,7 @@
 ## Our Vision
 Speeding up your learning process. **#SkyrocketYourProductivity** 			
 
-Our aim is to streamline learning and providing a distraction-free environment so that you can advance in your career.
+Our aim is to streamline learning and providing a distraction-free environment so that you can advance in your career. Check it out [here](https://hunaidkhan.github.io/flask-transcriptor-api/)
 
 ## Problems Faced Today
 Youtube is the millennial hub of education. Almost everything is available on Youtube nowadays. From coding videos to interview prep, everything is just one click away. Every beginner uses Youtube to learn how to code. Isn't it amazing how we don't need to spend hundreds of dollars on expensive courses?
@@ -31,7 +31,7 @@ At first, we were planning on using pre-trained models but after some debate, se
 We have also used Google Cloud Translate API to translate the text but couldn't integrate it due to time constraints.
 
 ## Accomplishments that we're proud of
-We are proud of learning how to leverage open-source APIs in order to generate a transcript of the video that can then be parsed into a short summary. We also set up a fully functional Python REST API on the backend and were able to host the whole project. Check it out [here](https://hunaidkhan.github.io/flask-transcriptor-api/)
+We are proud of learning how to leverage open-source APIs in order to generate a transcript of the video that can then be parsed into a short summary. We also set up a fully functional Python REST API on the backend and were able to host the whole project. 
 
 ## Why Should You Use This
 If you want to boost your productivity and get ahead of others, you should definitely give this a try. Next time, before watching a Youtube video, try using our product and you will be surprised that a 10-minute long video will take you just 4-5 minutes to read. 
